@@ -6,14 +6,8 @@
 
 ## 📚 학습 내용
 
-- Java 문법 기초
-- 객체지향 프로그래밍 (OOP)
-- 예외 처리
-- 컬렉션 프레임워크
-- 입출력 (I/O)
-- 파일 처리
-- JDBC 기초
-- 간단한 실습 코드
+- JDK and IntelliJU Install
+- IntelliJU 프로젝트 환경 구축 및 Github 연동
 
 ## ✨ 목표
 
