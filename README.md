@@ -3,7 +3,6 @@
 # ✨ Java Study
 
 > ✍️ **2025 몰입형 예비자 교육 과정에서 _Java_를 학습하고 정리한 Repository입니다.**
-
 <br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
