@@ -1,13 +1,23 @@
-# Java Study
+<div align="center">
+
+# ✨ Java Study
+
+> ✍️ **2025 몰입형 예비자 교육 과정에서 _Java_를 학습하고 정리한 Repository입니다.**
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![v17](https://img.shields.io/badge/v17-000000?style=for-the-badge&logoColor=white) &nbsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![ES6](https://img.shields.io/badge/ES6-000000?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-2025 몰입형 예비자 교육 과정에서 **Java**를 학습하고 정리한 Repository입니다.
-
 ## 📚 학습 내용
 
-- JDK and IntelliJU Install
-- IntelliJU 프로젝트 환경 구축 및 Github 연동
+- [✅ 2025-07-01 학습 내용](#-2025-07-01-학습-내용)
 
 ## ✨ 목표
 
@@ -21,12 +31,9 @@
 - **IntelliJ IDEA** 또는 **Eclipse**
 - **Git / GitHub**
 
-## 🔗 참고 자료
-
-- [Java 공식 문서](https://docs.oracle.com/en/java/)
-- [백기선 Java 강의](https://www.inflearn.com/course/the-java-java)
-- [w3schools Java Tutorial](https://www.w3schools.com/java/)
-
 ---
 
-> 지속적으로 내용을 추가하며 학습한 내용을 정리해나갈 예정입니다.
+## 🗓️ 2025-07-01 학습 내용
+
+- JDK 및 IntelliJ 설치
+- IntelliJ 프로젝트 환경 구축 및 GitHub 연동
