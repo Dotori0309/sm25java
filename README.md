@@ -6,7 +6,7 @@
 <br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![v17](https://img.shields.io/badge/v17-000000?style=for-the-badge&logoColor=white) &nbsp;
+![v17](https://img.shields.io/badge/jdk17-000000?style=for-the-badge&logoColor=white) &nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![ES6](https://img.shields.io/badge/ES6-000000?style=for-the-badge&logoColor=white)
 
@@ -28,7 +28,7 @@
 ## 🛠️ 개발 환경
 
 - **Java 17**
-- **IntelliJ IDEA** 또는 **Eclipse**
+- **IntelliJU**
 - **Git / GitHub**
 
 ---
