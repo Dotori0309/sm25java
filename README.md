@@ -25,6 +25,18 @@
 - 간단한 프로젝트나 문제 풀이로 개념 적용
 - 객체지향 사고 능력 향상
 
+## 🗓 학습 내용
+- What Is Java
+- 환경 셋팅
+- 기본 구조 및 실행
+- 데이터 타입(Primitive & Reference)
+- 제어문 반복문
+- Array
+- OOP
+- Exception
+- Generic
+- Collection
+
 ## 🛠️ 개발 환경
 
 - **Java 17**

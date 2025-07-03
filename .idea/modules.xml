@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0701/0701.iml" filepath="$PROJECT_DIR$/0701/0701.iml" />
       <module fileurl="file://$PROJECT_DIR$/0702/0702.iml" filepath="$PROJECT_DIR$/0702/0702.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0703/0703.iml" filepath="$PROJECT_DIR$/0703/0703.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0703/0703_2/0703_2.iml" filepath="$PROJECT_DIR$/0703/0703_2/0703_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sm25java.iml" filepath="$PROJECT_DIR$/.idea/sm25java.iml" />
     </modules>
   </component>
