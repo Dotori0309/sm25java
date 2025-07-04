@@ -16,8 +16,9 @@
 
 ## 📚 학습 내용
 
-- [✅ 2025-07-01 학습 내용](https://github.com/Dotori0309/sm25java/blob/main/0701/0701.md)
-- [✅ 2025-07-02 학습 내용](https://github.com/Dotori0309/sm25java/blob/main/0702/0702.md)
+- [✅ 2025-07-01 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-01.md)
+- [✅ 2025-07-02 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-02.md)
+- [✅ 2025-07-03 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-03.md)
 
 ## ✨ 목표
 
