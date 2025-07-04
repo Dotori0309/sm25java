@@ -3,9 +3,9 @@ package company;
 import java.util.UUID;
 
 public class Employee {
-    private String empNo;
-    private String name;
-    private double salary;
+    protected String empNo;
+    protected String name;
+    protected double salary;
 
     public Employee() {
     }
@@ -21,5 +21,17 @@ public class Employee {
         this.name = name;
         this.salary = salary;
     }
+
+    public String toString() {
+        return String.format("%s %s %s", this.empNo, this.name, this.salary);
+    }
+
+    public double getAnnualSalary(){
+        return this.salary * 12;
+    }
+    public double getAnnualSalary(double taxRate){
+        return (salary * 12) - (salary * 12 * taxRate);
+    }
 }
+
 
