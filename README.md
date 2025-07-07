@@ -37,7 +37,7 @@
 - **IntelliJU**
 - **Git / GitHub**
 
-## 📚 학습 내용
+## 📚 세부 학습 내용
 
 - [✅ 2025-07-01 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-01.md)
 - [✅ 2025-07-02 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-02.md)
