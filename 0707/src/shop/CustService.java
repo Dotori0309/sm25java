@@ -5,7 +5,7 @@ import java.util.List;
 public class CustService implements SMService<CustDto,String>{
 
     SMRepository<CustDto, String> smRepository;
-    public CustService() {
+    public CustService(){
         smRepository = new CustMySQLRepository();
     }
 
