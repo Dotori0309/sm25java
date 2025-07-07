@@ -13,13 +13,6 @@
 </div>
 
 ---
-
-## 📚 학습 내용
-
-- [✅ 2025-07-01 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-01.md)
-- [✅ 2025-07-02 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-02.md)
-- [✅ 2025-07-03 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-03.md)
-- [✅ 2025-07-04 학습 내용](  https://github.com/Dotori0309/Obsidian/blob/main/2025-07-04.md)
 ## ✨ 목표
 
 - Java의 핵심 개념을 실습을 통해 이해
@@ -43,5 +36,13 @@
 - **Java 17**
 - **IntelliJU**
 - **Git / GitHub**
+
+## 📚 학습 내용
+
+- [✅ 2025-07-01 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-01.md)
+- [✅ 2025-07-02 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-02.md)
+- [✅ 2025-07-03 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-03.md)
+- [✅ 2025-07-04 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-04.md)
+- [✅ 2025-07-07 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-07.md)
 
 ---
