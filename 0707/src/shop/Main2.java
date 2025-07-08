@@ -1,5 +1,9 @@
 package shop;
 
+import shop.dto.ItemDto;
+import shop.service.ItemService;
+import shop.service.SMService;
+
 import java.util.List;
 
 public class Main2 {

@@ -44,5 +44,6 @@
 - [✅ 2025-07-03 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-03.md)
 - [✅ 2025-07-04 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-04.md)
 - [✅ 2025-07-07 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-07.md)
+- [✅ 2025-07-08 학습 내용](https://github.com/Dotori0309/Obsidian/blob/main/2025-07-08.md)
 
 ---

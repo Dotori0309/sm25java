@@ -1,10 +1,12 @@
-package shop;
+package shop.repository;
+
+import shop.dto.CustDto;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Cust 객체를 DB에 CRUD 하는 기능을 가진 Class
-public class CustOlacleRepository implements SMRepository<CustDto, String>{
+public class CustOlacleRepository implements SMRepository<CustDto, String> {
 
     @Override
     public void insert(CustDto custDto) {

@@ -1,4 +1,8 @@
-package shop;
+package shop.service;
+
+import shop.dto.ItemDto;
+import shop.repository.ItemMySQLRepository;
+import shop.repository.SMRepository;
 
 import java.util.List;
 

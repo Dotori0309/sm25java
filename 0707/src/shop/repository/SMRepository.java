@@ -1,4 +1,4 @@
-package shop;
+package shop.repository;
 
 import java.util.List;
 
