@@ -2,7 +2,7 @@ package org.example;
 
 import java.sql.*;
 
-public class SelcetCust {
+public class UpdateCust {
     public static void main(String[] args) {
         // 1. MySQL Driver Loading ...
         try {
@@ -25,33 +25,25 @@ public class SelcetCust {
             System.out.println("Connection Fail");
             e.printStackTrace();
         }
-        // 3. SQL 문장 조회
-        String selectSql = "SELECT * FROM cust WHERE cust_id = ?";
+        // 3. SQL 문장 업데이트
+        String updateSql = "UPDATE cust SET cust_name = ? WHERE cust_id = ?";
         PreparedStatement pstmt = null;
         ResultSet rs = null;
 
         try {
-            pstmt = conn.prepareStatement(selectSql);
-            pstmt.setString(1, "id01");
-            rs = pstmt.executeQuery();
-            rs.next();
-            // 셀레트된 결과의 명칭을 가져온다
-            String cust_id = rs.getString("cust_id");
-            String cust_pwd = rs.getString("cust_pwd");
-            String cust_name = rs.getString("cust_name");
-            Date cust_regdate = rs.getDate("cust_regdate");
-            Date cust_update = rs.getDate("cust_update");
-            System.out.printf("cust_id = %s, cust_pwd = %s, cust_name = %s, cust_regdate = %s, cust_update = %s\n",
-                    cust_id, cust_pwd, cust_name, cust_regdate, cust_update);
-
+            pstmt = conn.prepareStatement(updateSql);
+            pstmt.setString(1, "id011");
+            pstmt.setString(2, "pwd11");
+            int result = pstmt.executeUpdate();
+            System.out.println("result = " + result);
         } catch (SQLException e) {
-            System.out.println("Fail to select cust");
+            System.out.println("Fail to update cust");
             e.printStackTrace();
         } finally {  // 5. Close
             if (rs != null) {
                 try {
                     conn.close();
-                } catch (SQLException e) {
+                } catch (SQLException ignored) {
                 }
                 if (pstmt != null) {
                     try {
@@ -70,5 +62,3 @@ public class SelcetCust {
         }
     }
 }
-
-

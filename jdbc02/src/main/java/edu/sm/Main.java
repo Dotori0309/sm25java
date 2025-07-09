@@ -1,4 +1,6 @@
-/*/TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+package edu.sm;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
@@ -11,16 +13,5 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-    }
-}
-*/
-
-class Solution {
-    public int solution(String s) {
-        String[] n = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-        for (int i = 0; i < n.length; i++) {
-            s = s.replace(n[i], Integer.toString(i));
-        }
-        return Integer.parseInt(s);
     }
 }
